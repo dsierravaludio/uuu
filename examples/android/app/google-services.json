@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "685785933080",
+    "firebase_url": "https://lingoda-f30fd.firebaseio.com",
+    "project_id": "lingoda-f30fd",
+    "storage_bucket": "lingoda-f30fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685785933080:android:ca5cbf72f161c79b702a6d",
+        "android_client_info": {
+          "package_name": "com.lingoda.android.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685785933080-d42rslrsarmjpagm6i7m5239520sqhl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUFD2E7KLOjZ33jIOQm3W8u1SfaSe5pfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685785933080-d42rslrsarmjpagm6i7m5239520sqhl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

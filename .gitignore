@@ -1,0 +1,9 @@
+*.log
+
+tmp
+build
+dist
+
+node_modules
+
+*.tgz

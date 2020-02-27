@@ -1,0 +1,20 @@
+{
+  "name": "lingodaiterablesdk",
+  "version": "1.0.0",
+  "description": "LingodaIterableSDK",
+  "main": "index.js",
+  "scripts": {
+    "install-examples": "rm -f lingodaiterablesdk-1.0.0.tgz && npm pack && cd examples && npm i ../lingodaiterablesdk-1.0.0.tgz",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.7.2",
+    "metro-react-native-babel-preset": "^0.57.0"
+  },
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-native": "^0.61.4"
+  }
+}
